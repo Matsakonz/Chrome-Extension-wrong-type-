@@ -1,0 +1,11 @@
+{
+    "name": "WrongType",
+    "version": "1.0.2",
+    "description": "This is an extension to help you to fix a wrong type because forget.",
+    "manifest_version": 3,
+    "author": "Matsakon Therdsareetham",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "WrongType"
+    }
+}

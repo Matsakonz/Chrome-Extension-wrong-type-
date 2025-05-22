@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#thai,#eng {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+p {
+    text-align: center;
+    font-weight: 400;
+}
+
+h1 {
+    text-align: center;
+}
